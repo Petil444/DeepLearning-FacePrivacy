@@ -18,3 +18,10 @@
 - NumPy
 
 ## Run
+cd 각자 폴더 위치
+.\faceenv\Scripts\Activate.ps1
+python webcam_face.py
+
+참조 자료
+face_recongnition
+https://github.com/ageitgey/face_recognition
