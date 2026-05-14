@@ -23,7 +23,7 @@
 ## 명령어
 - PowerShell을 실행한 후
 
-cd 각자 폴더 위치
+cd (각자 실행 폴더 위치)
 
 .\faceenv\Scripts\Activate.ps1
 
