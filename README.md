@@ -18,18 +18,15 @@
 - NumPy
 
 ## Run
-faces에 사용자가 인식하고 싶은 사람의 사진을 넣는다.
+- faces에 사용자가 인식하고 싶은 사람의 사진을 넣는다.
 
-##명령어
-PowerShell을 실행한 후
+## 명령어
+- PowerShell을 실행한 후
 
-cd 각자 폴더 위치
+- cd 각자 폴더 위치
+- .\faceenv\Scripts\Activate.ps1
+- python webcam_face.py
 
-.\faceenv\Scripts\Activate.ps1
-
-python webcam_face.py
-
-
-참조 자료
-face_recongnition
-https://github.com/ageitgey/face_recognition
+## 참조 자료
+- face_recongnition
+- https://github.com/ageitgey/face_recognition
