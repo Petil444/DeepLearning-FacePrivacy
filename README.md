@@ -23,10 +23,10 @@
 ## 명령어
 - PowerShell을 실행한 후
 
-- cd 각자 폴더 위치
-- .\faceenv\Scripts\Activate.ps1
-- python webcam_face.py
+cd 각자 폴더 위치
+.\faceenv\Scripts\Activate.ps1
+python webcam_face.py
 
 ## 참조 자료
-- face_recongnition
-- https://github.com/ageitgey/face_recognition
+face_recongnition
+https://github.com/ageitgey/face_recognition
